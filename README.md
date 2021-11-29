@@ -1,5 +1,5 @@
 # kodluyoruzilkrepo
-bu repo [kodluyoruz] { https://www.google.com/ } Front-End Eğitiminde Oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası Bir Adet de index.html barındırıyor
+bu repo [ kodluyoruz ]{ https://www.google.com/ } Front-End Eğitiminde Oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası Bir Adet de index.html barındırıyor
 
 
 # Installation
